@@ -1,5 +1,7 @@
 ##Synchrony Project
 
+The project is built upon as per the below requirement - can be further modified
+
 Create a Spring Boot REST app that exposes endpoints to
 • Register a User with basic information, username, and password
 
